@@ -1,0 +1,28 @@
+server:
+  port: 9001
+
+spring:
+  freemarker:
+    template-loader-path: classpath:/templates
+    suffix: .ftl
+    content-type: text/html
+    charset: UTF-8
+    cache: false
+  application:
+    name: ElementTest
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/school
+    username: root
+    password: logan123
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.work.elementtest.entity
+
+logging:
+  file:
+    path: D:/ElementTestLog/
+    name: ElementTest.log
+  config: classpath:loggback.xml
+
