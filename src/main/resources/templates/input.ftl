@@ -8,7 +8,6 @@
 </head>
 <body>
 <div id="app">
-
     <br/>
     <br/>
     <br/>
@@ -35,9 +34,9 @@
 
 </div>
 </body>
-<script src="/vueCDN/vue.js"></script>
+<script src="/vue-v2.6.11/dist/vue.js"></script>
 <script src="/element-ui2.13.2/lib/index.js"></script>
-<script src="/axios0.19.2/dist/axios.js"></script>
+<script src="/axios-v0.19.2/dist/axios.js"></script>
 
 <script src="/js/input.js"></script>
 

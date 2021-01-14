@@ -89,7 +89,7 @@
 
 </div>
 </body>
-<script src="/vueCDN/vue.js"></script>
+<script src="/vue-v2.6.11/dist/vue.js"></script>
 <script src="/element-ui2.13.2/lib/index.js"></script>
 <script src="/js/hello.js"></script>
 </html>
