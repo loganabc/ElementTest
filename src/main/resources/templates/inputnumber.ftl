@@ -34,12 +34,15 @@
             label="描述文字"></el-input-number>
 
     <el-button type="primary" @click="confirminputnumber2">确认</el-button>
-
-
-
-
-
     <br/>
+    <br/>
+
+
+
+
+
+
+
     <br/>
 
 

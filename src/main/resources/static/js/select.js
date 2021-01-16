@@ -5,6 +5,14 @@ new Vue({
         textarea:null,
         textareaObject:{},
         selectvalue1:'',
+        selectvalue2:'',
+        selectvalue3:'',
+        selectvalue4:'',
+        selectvalue5:'',
+        selectvalue6:'',
+        selectvalue7:'',
+        selectvalue8:'',
+        selectvalue9:'',
         options:[
             {
                 value:"Shanghai",
@@ -16,7 +24,8 @@ new Vue({
             },
             {
                 value:"Shenzhen",
-                label:"深圳"
+                label:"深圳",
+                disabled:true,
             }
         ],
     },
