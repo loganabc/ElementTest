@@ -15,7 +15,10 @@ new Vue({
         },
         jumpInputNumber(){
             window.location.href='/inputnumber';
-        }
+        },
+        jumpSelect(){
+            window.location.href='/select';
+        },
     }
 })
 

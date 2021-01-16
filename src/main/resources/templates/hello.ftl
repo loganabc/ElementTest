@@ -84,16 +84,16 @@
     <br/>
     <br/>
     <br/>
-    <el-button type="primary" @click="jumpInput">Input输入框</el-button>
-    <br/>
-    <br/>
-    <br/>
     <el-button type="primary" @click="jumpInputNumber">InputNumber计数器</el-button>
 
     <br/>
     <br/>
     <br/>
     <el-button type="primary" @click="jumpInput">Input输入框</el-button>
+    <br/>
+    <br/>
+    <br/>
+    <el-button type="primary" @click="jumpSelect">Select选择器</el-button>
 
 </div>
 </body>
