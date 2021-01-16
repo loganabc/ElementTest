@@ -22,8 +22,6 @@
     <br/>
     <br/>
     <el-button type="primary" :disabled="btnstatus" @click="orderSubmit" style="width: 180px;">提交</el-button>
-
-
     <br/>
     <br/>
     <br/>

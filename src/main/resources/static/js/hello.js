@@ -12,6 +12,9 @@ new Vue({
         },
         jumpInput(){
             window.location.href='/input';
+        },
+        jumpInputNumber(){
+            window.location.href='/inputnumber';
         }
     }
 })

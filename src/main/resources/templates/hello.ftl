@@ -81,6 +81,14 @@
     <br/>
     <br/>
     <el-button type="primary" @click="jumpCheckbox">Checkbox多选框</el-button>
+    <br/>
+    <br/>
+    <br/>
+    <el-button type="primary" @click="jumpInput">Input输入框</el-button>
+    <br/>
+    <br/>
+    <br/>
+    <el-button type="primary" @click="jumpInputNumber">InputNumber计数器</el-button>
 
     <br/>
     <br/>
