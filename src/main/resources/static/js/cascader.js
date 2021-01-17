@@ -67,6 +67,136 @@ new Vue({
                             {
                                 value: "layout",
                                 label:"Layout 布局"
+                            },
+                            {
+                                value: "color",
+                                label: "Color 色彩"
+                            },
+                            {
+                                value: "typography",
+                                label:"Typography 字体"
+                            },
+                            {
+                                value: "icon",
+                                label: "Icon 图标"
+                            },
+                            {
+                                value: "button",
+                                label: "Button 按钮"
+                            }
+                        ]
+                    },
+                    {
+                        value: "form",
+                        label: "Form",
+                        children: [
+                            {
+                                value: "radio",
+                                label: "Radio 单选框"
+                            },
+                            {
+                                value: "checkbox",
+                                label: "Checkbox 多选框"
+                            },
+                            {
+                                value: "input",
+                                label: "Input 输入框"
+                            },
+                            {
+                                value: "input-number",
+                                label: "InputNumber 计数器"
+                            },
+                            {
+                                value: "select",
+                                label: "Select 选择器"
+                            },
+                            {
+                                value: "cascader",
+                                label: "Cascader 级联选择器"
+                            },
+                            {
+                                value: "switch",
+                                label: "Switch 开关"
+                            },
+                            {
+                                value: "slider",
+                                label: "Slider 滑块"
+                            },
+                            {
+                                value: "time-picker",
+                                label: "TimePicker时间选择器"
+                            },
+                            {
+                                value: "date-picker",
+                                label: "DatePicker 日期选择器"
+                            },
+                            {
+                                value: "upload",
+                                label: "Upload 上传"
+                            },
+                            {
+                                value: "rate",
+                                label: "Rate 评分"
+                            },
+                            {
+                                value: "form",
+                                label: "Form 表单"
+                            }
+                        ]
+                    },
+                    {
+                        value: "data",
+                        label: "Data",
+                        children: [
+                            {
+                                value: "table",
+                                label: "Table 表格"
+                            },
+                            {
+                                value: "tag",
+                                label: "Tag 标签"
+                            },
+                            {
+                                value: "progress",
+                                label: "Progress 进度条"
+                            },
+                            {
+                                value: "tree",
+                                label: "Tree 树形结构"
+                            },
+                            {
+                                value: "pagination",
+                                label: "Pagination 分页"
+                            },
+                            {
+                                value: "badge",
+                                label: "Badge 标记"
+                            }
+                        ]
+                    },
+                    {
+                        value: "notice",
+                        label: "Notice",
+                        children: [
+                            {
+                                value: "alert",
+                                label: "Alert 警告"
+                            },
+                            {
+                                value: "loading",
+                                label: "Loading 加载"
+                            },
+                            {
+                                value: "message",
+                                label: "Message 消息提醒"
+                            },
+                            {
+                                value: "message-box",
+                                label: "MessageBox 弹窗"
+                            },
+                            {
+                                value: "notification",
+                                label: "Notification 通知"
                             }
                         ]
                     }
