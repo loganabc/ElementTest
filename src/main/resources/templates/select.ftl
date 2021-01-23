@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Radio单选框</title>
+    <title>Select选择器</title>
     <link rel="stylesheet" href="/element-ui2.13.2/lib/theme-chalk/index.css">
 <#--    <link rel="stylesheet" href="/css/input.css">-->
 </head>
